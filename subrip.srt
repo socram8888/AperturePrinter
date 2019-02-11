@@ -1,0 +1,309 @@
+﻿1
+00:00:00,817 --> 00:00:02,769
+[b]Forms FORM-29827281.12:
+
+2
+00:00:02,833 --> 00:00:04,833
+[b]Test Assesment Report
+_
+_
+
+3
+00:00:07,895 --> 00:00:09,340
+This was a triumph.
+
+4
+00:00:11,662 --> 00:00:13,415
+I'm making a note here:
+
+5
+00:00:13,689 --> 00:00:15,481
+[center][size=2]HUGE SUCCESS.
+
+6
+00:00:16,614 --> 00:00:19,061
+It's hard to overstate
+
+7
+00:00:19,086 --> 00:00:21,806
+my satisfaction.
+
+8
+00:00:23,718 --> 00:00:25,404
+Aperture Science
+[img=aperture_logo.png]
+
+9
+00:00:27,605 --> 00:00:28,940
+We do what we must
+
+10
+00:00:29,391 --> 00:00:31,305
+because we can.
+
+11
+00:00:32,946 --> 00:00:36,033
+For the good of all of us.
+
+12
+00:00:36,293 --> 00:00:38,102
+Except the ones who are dead.
+[img=radiation.png]
+
+13
+00:00:38,493 --> 00:00:40,381
+_
+But there's no sense crying
+
+14
+00:00:40,406 --> 00:00:42,175
+over every mistake.
+
+15
+00:00:42,436 --> 00:00:44,336
+You just keep on trying
+
+16
+00:00:44,361 --> 00:00:46,277
+till you run out of cake.
+
+17
+00:00:46,541 --> 00:00:48,501
+And the Science gets done.
+[img=atoms.png]
+
+18
+00:00:48,545 --> 00:00:50,522
+And you make a neat gun.
+
+19
+00:00:50,547 --> 00:00:52,186
+For the people who are
+
+20
+00:00:52,211 --> 00:00:53,481
+still alive.
+
+21
+00:00:54,703 --> 00:00:55,218
+[pagefeed]
+[b]Forms FORM-55551-5:
+
+22
+00:00:55,243 --> 00:00:56,417
+[b]Personal File Addendum
+_
+
+23
+00:00:56,925 --> 00:00:59,662
+[b]Dear <<Subject Name Here>>.
+_
+
+24
+00:00:59,687 --> 00:01:01,475
+I'm not even angry.
+
+25
+00:01:03,925 --> 00:01:07,267
+I'm being so sincere right now.
+
+26
+00:01:08,794 --> 00:01:12,210
+Even though you broke my heart.
+[img=brokenhearth.png]
+
+27
+00:01:12,235 --> 00:01:13,811
+And killed me.
+
+28
+00:01:15,572 --> 00:01:17,487
+_
+And tore me to pieces.
+[img=explosion.png]
+
+29
+00:01:19,720 --> 00:01:23,354
+And threw every piece into a fire.
+[img=fire.png]
+
+30
+00:01:24,908 --> 00:01:27,915
+As they burned it hurt because
+
+31
+00:01:28,201 --> 00:01:30,012
+I was so happy for you!
+[img=tick.png]
+
+32
+00:01:30,438 --> 00:01:32,509
+Now these points of data
+
+33
+00:01:32,534 --> 00:01:33,906
+make a beautiful line.
+
+34
+00:01:34,365 --> 00:01:36,311
+And we're out of beta.
+
+35
+00:01:36,401 --> 00:01:38,219
+We're releasing on time.
+
+36
+00:01:38,435 --> 00:01:40,261
+So I'm GLaD. I got burned.
+
+37
+00:01:40,477 --> 00:01:42,363
+Think of all the things we learned
+
+38
+00:01:42,388 --> 00:01:44,185
+for the people who are
+
+39
+00:01:44,210 --> 00:01:45,478
+still alive.
+
+40
+00:01:47,143 --> 00:01:47,590
+[pagefeed]
+[b]Forms FORM-55551-6:
+
+41
+00:01:47,615 --> 00:01:49,344
+[b]Personal File Addendum Addendum:
+_
+
+42
+00:01:49,709 --> 00:01:51,709
+One last thing:
+_
+
+43
+00:01:51,854 --> 00:01:53,872
+Go ahead and leave me.
+
+44
+00:01:55,640 --> 00:01:59,388
+I think I prefer to stay inside.
+
+45
+00:02:00,805 --> 00:02:04,070
+Maybe you'll find someone else
+
+46
+00:02:04,265 --> 00:02:05,866
+to help you.
+
+47
+00:02:07,881 --> 00:02:09,776
+Maybe Black Mesa...
+[img=blackmesa.png]
+
+48
+00:02:11,756 --> 00:02:15,422
+[b]THAT WAS A JOKE. FAT CHANCE.
+
+49
+00:02:16,825 --> 00:02:19,967
+Anyway, this cake is great.
+
+50
+00:02:20,181 --> 00:02:21,983
+It's so delicious and moist.
+[img=cake.png]
+
+51
+00:02:22,412 --> 00:02:24,234
+Look at me still talking
+[img=glados.png]
+
+52
+00:02:24,259 --> 00:02:26,350
+when there's science to do.
+
+53
+00:02:26,375 --> 00:02:28,331
+When I look out there
+
+54
+00:02:28,356 --> 00:02:30,274
+it makes me glad I'm not you.
+
+55
+00:02:30,355 --> 00:02:32,296
+I've experiments to be run.
+
+56
+00:02:32,396 --> 00:02:34,447
+There is research to be done.
+
+57
+00:02:34,472 --> 00:02:36,164
+On the people who are
+
+58
+00:02:36,196 --> 00:02:37,664
+still alive.
+
+59
+00:02:38,462 --> 00:02:40,145
+[pagefeed]
+PS: And believe me I am
+
+60
+00:02:40,170 --> 00:02:41,259
+still alive.
+
+61
+00:02:42,223 --> 00:02:44,064
+PPS: I'm doing science and I'm
+
+62
+00:02:44,089 --> 00:02:45,405
+still alive.
+
+63
+00:02:46,164 --> 00:02:47,981
+PPPS: I feel fantastic and I'm
+
+64
+00:02:48,006 --> 00:02:49,242
+still alive.
+
+65
+00:02:49,510 --> 00:02:50,323
+_
+FINAL THOUGHT:
+
+66
+00:02:50,348 --> 00:02:52,020
+While you're dying I'll be
+
+67
+00:02:52,045 --> 00:02:53,434
+still alive.
+
+68
+00:02:53,641 --> 00:02:54,190
+_
+FINAL THOUGHT PS:
+
+69
+00:02:54,215 --> 00:02:56,045
+And when you're dead I will be
+
+70
+00:02:56,070 --> 00:02:57,143
+still alive.
+
+71
+00:02:57,990 --> 00:02:59,175
+_
+_
+[center][size=3]STILL ALIVE.
+
